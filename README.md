@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheharyar</h1>
 <h3 align="center">A passionate front end developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Front end projects**
 
