@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **MERN, NEXTjs, GaphQL.**
 
-- 👨‍💻 All of my projects are available at [https://sheharyar.pages.dev/](https://sheharyar.pages.dev/)
-
 - 💬 Ask me about **anything related to MERN Stack.**
 
 <h3 align="left">Connect with me:</h3>
